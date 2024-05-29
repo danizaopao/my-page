@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(146, 161, 173);
+
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 80px;
+}
+p{
+    position: absolute;
+    left: 100px;
+    right: 100px;
+}
+.box1{
+    background-color: black;
+    height: 500px;
+    width: 200px;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+.box2{
+    background-color: black;
+    height: 500px;
+    width: 200px;
+    position: absolute;
+    top: 250px;
+    right: 100px;
+}
+.box3{
+    background-color: black;
+    height: 50px;
+    width: 1320px;
+    position: absolute;
+    top: 800px;
+    left: 100px;
+    right: 80px;
+}
